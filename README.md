@@ -1,2 +1,2 @@
 # nucleitemp
-get all nuclei temp from emad shanab repo in one run
+get all nuclei templates from emad shanab repo in one run
